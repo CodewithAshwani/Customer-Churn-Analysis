@@ -23,22 +23,27 @@ This project aims to analyze customer churn within a bank's customer base.
 By segmenting customers based on various demographic and account-related attributes, the project seeks to identify factors contributing to churn. 
 Insights from the analysis will help the bank develop targeted strategies to improve customer retention and reduce churn rates.
 
-**Questions Asked:**
-What is the overall churn rate among the bank's customers?
-How does churn rate vary across different demographic segments (e.g., gender, age groups)?
-What is the relationship between account activity status and churn rate?
-How does credit card ownership affect customer churn?
-Are there significant differences in churn rates across different countries?
-Which products are associated with higher or lower churn rates?
-How do credit scores impact the likelihood of customer churn?
-What role does account balance play in customer churn?
-
-
 **Tools Used:**
 
 Data Visualization/Dashboard Creation::  Power BI
 Statistical Analysis: Excel
 Data Storage and Management: SQL, Excel
+
+**Questions Asked:**
+1. What is the overall churn rate among the bank's customers?  
+2. How does churn rate vary across different demographic segments (e.g., gender, age groups)?
+3. What is the relationship between account activity status and churn rate?
+4. How does credit card ownership affect customer churn?
+5. Are there significant differences in churn rates across different countries?
+6. Which products are associated with higher or lower churn rates?
+7. How do credit scores impact the likelihood of customer churn?
+
+
+
+
+
+
+
 
 
 **Conclusion:**
@@ -48,12 +53,3 @@ Credit card ownership and activity status also significantly impact churn rates.
 These actions can help reduce churn, enhance customer loyalty, and ultimately improve the bank's profitability.
 
 
-
-
-
-
-
-
-g
-
-ChatGPT can make m
