@@ -31,12 +31,32 @@ Data Storage and Management: SQL, Excel
 
 **Questions Asked:**
 1. What is the overall churn rate among the bank's customers?  
+
+<img width="587" alt="1" src="https://github.com/CodewithAshwani/Customer-Churn-Analysis/assets/73930456/1c118a45-99e1-40df-9c2b-87df00263434">
+
 2. How does churn rate vary across different demographic segments (e.g., gender, age groups)?
+ 
+<img width="589" alt="2" src="https://github.com/CodewithAshwani/Customer-Churn-Analysis/assets/73930456/0c0077dc-a873-43e9-a52d-68b59f77239e">
+
 3. What is the relationship between account activity status and churn rate?
+   
+<img width="587" alt="3" src="https://github.com/CodewithAshwani/Customer-Churn-Analysis/assets/73930456/5cc29b9d-9d32-4fa9-8efc-54d9a0e7f6b5">
+
 4. How does credit card ownership affect customer churn?
+ 
+<img width="589" alt="4" src="https://github.com/CodewithAshwani/Customer-Churn-Analysis/assets/73930456/68ca76d6-8bf8-477c-96ea-a4f6ac1fa3ae">
+
 5. Are there significant differences in churn rates across different countries?
+
+<img width="590" alt="5" src="https://github.com/CodewithAshwani/Customer-Churn-Analysis/assets/73930456/116b6684-d6db-4667-8ab2-abdfe51784ca">
+
 6. Which products are associated with higher or lower churn rates?
+
+<img width="590" alt="6" src="https://github.com/CodewithAshwani/Customer-Churn-Analysis/assets/73930456/cecc1ebb-9e03-4d69-8dd3-27679baa6ec0">
+
 7. How do credit scores impact the likelihood of customer churn?
+
+<img width="593" alt="7" src="https://github.com/CodewithAshwani/Customer-Churn-Analysis/assets/73930456/b9993d0f-d120-4583-aa5c-2f9fa91a8a79">
 
 
 
