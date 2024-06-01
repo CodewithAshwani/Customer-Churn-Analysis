@@ -2,20 +2,28 @@
 Customer Churn Analysis for Bank Customer Data
 
 **Procedure:**
-Data Collection: Gather bank customer data including demographics, account information, transaction history, and other relevant details.
-Data Cleaning: Process the data to handle missing values, remove duplicates, and correct inconsistencies.
-Data Segmentation: Segment the data based on various attributes such as gender, activity status, credit card status, country, products, age groups, credit scores, and account balance groups.
-Churn Rate Calculation: Calculate churn rates for each segment to identify patterns and trends.
-Visualization: Create visual representations (charts, graphs, dashboards) to illustrate customer distribution and churn rates across different segments.
-Analysis: Analyze the visualized data to draw insights on customer behavior and churn tendencies.
-Conclusion and Recommendations: Summarize findings and provide actionable recommendations to reduce churn.
+1. Data Collection: Gather bank customer data including demographics, account information, transaction history, and other relevant details.
+
+2. Data Cleaning: Process the data to handle missing values, remove duplicates, and correct inconsistencies.
+
+3. Data Segmentation: Segment the data based on various attributes such as gender, activity status, credit card status, country, products, age groups, credit scores, and account balance groups.
+
+4. Churn Rate Calculation: Calculate churn rates for each segment to identify patterns and trends.
+
+5. Visualization: Create visual representations (charts, graphs, dashboards) to illustrate customer distribution and churn rates across different segments.
+
+6. Analysis: Analyze the visualized data to draw insights on customer behavior and churn tendencies.
 
 **Methodology:**
-Descriptive Analytics: Use statistical methods to describe the basic features of the data and identify patterns.
-Exploratory Data Analysis (EDA): Explore data visually to uncover underlying structures, detect outliers, and test hypotheses.
-Data Visualization: Utilize tools like pie charts, bar graphs, and histograms to present the data in an easily interpretable format.
-Segmentation Analysis: Group customers into segments based on common attributes to identify specific churn trends within each segment.
-Churn Rate Analysis: Measure the proportion of customers who leave the bank within a certain period across different segments.
+1. Descriptive Analytics: Use statistical methods to describe the basic features of the data and identify patterns.
+
+2. Exploratory Data Analysis (EDA): Explore data visually to uncover underlying structures, detect outliers, and test hypotheses.
+
+3. Data Visualization: Utilize tools like pie charts, bar graphs, and histograms to present the data in an easily interpretable format.
+
+4. Segmentation Analysis: Group customers into segments based on common attributes to identify specific churn trends within each segment.
+
+5. Churn Rate Analysis: Measure the proportion of customers who leave the bank within a certain period across different segments.
 
 
 **Project Description:**
